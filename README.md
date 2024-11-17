@@ -27,7 +27,7 @@ To create a 3D model from given orthographic projection.
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png
 
 7.	Use extrude option to convert 3D model from sketch
 
@@ -41,7 +41,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
-![Uploading image.png…](https://github.com/Sanjeevpriya2104/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/edit/main/README.md)
+![Uploading image.png…]()
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
